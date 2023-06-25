@@ -34,9 +34,11 @@ quote_generator();
     }
     else if(selection == 2){
 console.log('THERAPY BOTS'); 
+console.log('\nThe Therapy Bots will be one of the most revolutionary robots made in history. They are based on the idea of quantum fallacy, in which one either fixes themselves or they wont be able to leave the space. The Therapy bots are a very strict method that will be used on some of the most dangerous individuals , to make an attempt to change them completely. \nThere will be problems with justice but those problems are to be dealth with in the same time, with the advancements of cloning.\n');
+
     }
     else if(selection == 3){
-        console.log("M");
+        console.log("\nM is the first conscious robot to ever exist, she is beyond what a human is and will ever be, however, she is not a threat to humans in any way, she exist to help humanity and provide assistance and friendship to Parker, her mutual partner. \n ");;
     }
     rl.close();
   });
